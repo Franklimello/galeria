@@ -16,3 +16,4 @@ galleryItems.forEach((item ) => {
 lightboxClose.addEventListener('click', () => {
     lightbox.style.display = "none"
 });
+
